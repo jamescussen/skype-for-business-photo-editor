@@ -1,7 +1,7 @@
 Skype for Business Photo Editor
 ============================================
 
-This is a PowerShell based tool used to batch resize, crop and filter images for use with Skype for Business server.
+This is a PowerShell based tool used to batch resize, crop and filter images for use with Skype for Business server. This project may also be useful for others as a starting point for building other image processing tools using PowerShell.
 
 **Tool Features:**
 
